@@ -1,0 +1,13 @@
+{
+  "notebook.cellFailureDiagnostics": true,
+  "notebook.experimental.cellChat": false,
+  "notebook.output.linkifyFilePaths": true,
+  "notebook.breadcrumbs.showCodeCells": true,
+  "notebook.cellFocusIndicator": "gutter",
+  "notebook.cellToolbarVisibility": "click",
+  "notebook.compactView": true,
+  "comments.collapseOnResolve": true,
+  "output.smartScroll.enabled": true,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": false
+}
